@@ -1,0 +1,9 @@
+test:
+  name: "test2"
+  items:
+    - id: "Test"
+      name: "This is a test"
+      state: "ok"
+  pinned: "true"
+  states: "ok,cool,letsgo,maybe,done"
+  vis: "true"
